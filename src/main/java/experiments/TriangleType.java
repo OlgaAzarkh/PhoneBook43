@@ -15,7 +15,7 @@ public enum TriangleType {
     @Override
     public String toString() {
         return "TriangleType{"+
-                "type="+ type + ''
+                "type="+ type;
     }
 }
 
